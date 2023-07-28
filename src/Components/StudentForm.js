@@ -22,7 +22,7 @@ function StudentForm({ addStudent }) {
         name="Name"
         value={student.Name}
         onChange={handleChange}
-        placeholder="Name"
+        placeholder="Student Name"
         required
       /></td></tr><tr><td>
           Email: </td><td>
